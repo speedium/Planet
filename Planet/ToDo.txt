@@ -1,0 +1,7 @@
+* Urobi korekciu na referenènú GPS. Vykreslovanie rozptylu.
+* Ukladanie a otvaranie nameranıch dát zo suborov. Nejak ich zakódova. To budú projekty.
+* Kreslenie šipiek.
+* Nejakı manuál.
+* Ošetri dvojnásobné kliknutie na "konektovanie" a pod.
+* Zaheslovanie programu
+* aby si pamatal posledne nastavenia IP, PORT a COM port dat do cfg

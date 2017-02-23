@@ -1,0 +1,8 @@
+C:\SVNs\Envi\Projects\Planet\Bin\ELogSimulator.exe
+C:\SVNs\Envi\Projects\Planet\Bin\ELogSimulator.pdb
+C:\SVNs\Envi\Projects\Planet\ELogSimulator\obj\x86\Release\ELogSimulator.csprojResolveAssemblyReference.cache
+C:\SVNs\Envi\Projects\Planet\ELogSimulator\obj\x86\Release\ELogSimulator.MainFormELogSimulator.resources
+C:\SVNs\Envi\Projects\Planet\ELogSimulator\obj\x86\Release\ELogSimulator.Properties.Resources.resources
+C:\SVNs\Envi\Projects\Planet\ELogSimulator\obj\x86\Release\ELogSimulator.csproj.GenerateResource.Cache
+C:\SVNs\Envi\Projects\Planet\ELogSimulator\obj\x86\Release\ELogSimulator.exe
+C:\SVNs\Envi\Projects\Planet\ELogSimulator\obj\x86\Release\ELogSimulator.pdb

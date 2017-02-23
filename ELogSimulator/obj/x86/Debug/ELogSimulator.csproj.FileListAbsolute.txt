@@ -1,0 +1,15 @@
+G:\Planet\bin\ELogSimulator.exe
+G:\Planet\bin\ELogSimulator.pdb
+G:\Planet\ELogSimulator\obj\x86\Debug\ELogSimulator.MainFormELogSimulator.resources
+G:\Planet\ELogSimulator\obj\x86\Debug\ELogSimulator.Properties.Resources.resources
+G:\Planet\ELogSimulator\obj\x86\Debug\ELogSimulator.csproj.GenerateResource.Cache
+G:\Planet\ELogSimulator\obj\x86\Debug\ELogSimulator.exe
+G:\Planet\ELogSimulator\obj\x86\Debug\ELogSimulator.pdb
+C:\SVNs\Envi\Projects\Planet\bin\ELogSimulator.exe
+C:\SVNs\Envi\Projects\Planet\bin\ELogSimulator.pdb
+C:\SVNs\Envi\Projects\Planet\ELogSimulator\obj\x86\Debug\ELogSimulator.csprojResolveAssemblyReference.cache
+C:\SVNs\Envi\Projects\Planet\ELogSimulator\obj\x86\Debug\ELogSimulator.MainFormELogSimulator.resources
+C:\SVNs\Envi\Projects\Planet\ELogSimulator\obj\x86\Debug\ELogSimulator.Properties.Resources.resources
+C:\SVNs\Envi\Projects\Planet\ELogSimulator\obj\x86\Debug\ELogSimulator.csproj.GenerateResource.Cache
+C:\SVNs\Envi\Projects\Planet\ELogSimulator\obj\x86\Debug\ELogSimulator.exe
+C:\SVNs\Envi\Projects\Planet\ELogSimulator\obj\x86\Debug\ELogSimulator.pdb

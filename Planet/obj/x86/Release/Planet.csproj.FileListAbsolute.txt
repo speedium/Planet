@@ -1,0 +1,17 @@
+G:\Planet\bin\Planet.exe.config
+C:\SVNs\Envi\Projects\Planet\bin\Planet.exe.config
+C:\SVNs\Envi\Projects\Planet\bin\Planet.exe
+C:\SVNs\Envi\Projects\Planet\bin\Planet.pdb
+C:\SVNs\Envi\Projects\Planet\Planet\obj\x86\Release\Planet.csprojResolveAssemblyReference.cache
+C:\SVNs\Envi\Projects\Planet\Planet\obj\x86\Release\Planet.CommunicationsForm.resources
+C:\SVNs\Envi\Projects\Planet\Planet\obj\x86\Release\Planet.GPSInfoForm.resources
+C:\SVNs\Envi\Projects\Planet\Planet\obj\x86\Release\Planet.MapForm.resources
+C:\SVNs\Envi\Projects\Planet\Planet\obj\x86\Release\Planet.MainForm.resources
+C:\SVNs\Envi\Projects\Planet\Planet\obj\x86\Release\Planet.MapRefForm.resources
+C:\SVNs\Envi\Projects\Planet\Planet\obj\x86\Release\Planet.MeasureForm.resources
+C:\SVNs\Envi\Projects\Planet\Planet\obj\x86\Release\Planet.Properties.Resources.resources
+C:\SVNs\Envi\Projects\Planet\Planet\obj\x86\Release\Planet.RegisterView.resources
+C:\SVNs\Envi\Projects\Planet\Planet\obj\x86\Release\Planet.TableForm.resources
+C:\SVNs\Envi\Projects\Planet\Planet\obj\x86\Release\Planet.csproj.GenerateResource.Cache
+C:\SVNs\Envi\Projects\Planet\Planet\obj\x86\Release\Planet.exe
+C:\SVNs\Envi\Projects\Planet\Planet\obj\x86\Release\Planet.pdb
